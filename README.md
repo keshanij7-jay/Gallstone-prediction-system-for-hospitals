@@ -218,7 +218,7 @@ Stage 1 positive patient
 ```
 
 > Stage 2 requires longitudinal follow-up data — design proposal available
-> in [`Stage2_Proposal.docx`](Stage2_Proposal.docx).
+> in [`Stage2_Proposal.docx`](Stage2_Proposal.pdf).
 
 ---
 
