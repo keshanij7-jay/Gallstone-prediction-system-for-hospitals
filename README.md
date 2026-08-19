@@ -266,7 +266,7 @@ jupyter notebook stage_1.ipynb
 gallstone-prediction/
 ├── stage_1.ipynb            # Full pipeline notebook
 ├── REPORT.md                # Written project report
-├── Stage2_Proposal.docx     # Stage 2 design proposal
+├── Stage2_Proposal.pdf     # Stage 2 design proposal
 ├── README.md                # This file
 ├── requirements.txt         # Dependencies
 └── gallstone_dataset.csv    # Dataset (place here before running)
